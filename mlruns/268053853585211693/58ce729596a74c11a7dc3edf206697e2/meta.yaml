@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/268053853585211693/58ce729596a74c11a7dc3edf206697e2/artifacts
+end_time: 1733214532024
+entry_point_name: ''
+experiment_id: '268053853585211693'
+lifecycle_stage: active
+run_id: 58ce729596a74c11a7dc3edf206697e2
+run_name: worried-pug-727
+run_uuid: 58ce729596a74c11a7dc3edf206697e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733214531919
+status: 3
+tags: []
+user_id: himal
