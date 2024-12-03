@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/268053853585211693/dfa3f078f24348e4afaf0d0d7387683a/artifacts
+end_time: 1733246026498
+entry_point_name: ''
+experiment_id: '268053853585211693'
+lifecycle_stage: active
+run_id: dfa3f078f24348e4afaf0d0d7387683a
+run_name: mercurial-ray-593
+run_uuid: dfa3f078f24348e4afaf0d0d7387683a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733246018436
+status: 3
+tags: []
+user_id: himal
